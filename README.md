@@ -41,7 +41,7 @@ html<!DOCTYPE html>
 </html>
 
 Save the quiz code as quiz.js in the same folder
-Open index.html in your browser (Chrome, Firefox, etc.)
+Open index.html in your browser (Chrome, Firefox, etc.) but i ll actually suggest you use firefox for this 
 Open the Console:
 
 Press F12 on your keyboard, OR
