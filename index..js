@@ -1,4 +1,3 @@
-
 const questions = [
   {
     prompt:
@@ -49,7 +48,7 @@ function runQuiz() {
     console.log(`Question ${i + 1}: ${questions[i].prompt}`);
 
     //my browser will diplay this  on load
-     prompt(questions[i].prompt);
+    prompt(questions[i].prompt);
 
     // For demo purposes, i'll simulate different answers
     if (i === 0) userAnswer = "const";
